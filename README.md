@@ -28,7 +28,15 @@ SMS Spam Collection Dataset
 7. Evaluate model performance
 
 ## Results
+## Output
 
+### Classification Report
+
+![Output](screenshots/spammail1output.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/spammail2figoutput.png)
 * Accuracy: 97.04%
 * Precision (Spam): 100%
 * F1 Score (Spam): 88%
