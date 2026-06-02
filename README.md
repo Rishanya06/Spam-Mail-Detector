@@ -41,8 +41,4 @@ SMS Spam Collection Dataset
 * Precision (Spam): 100%
 * F1 Score (Spam): 88%
 
-## Future Improvements
 
-* Streamlit Web Application
-* Logistic Regression Model
-* Deep Learning Based Spam Detection
